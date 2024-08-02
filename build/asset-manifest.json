@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ElayaramanR-Projects/bloc-clone/static/css/main.5c00253c.css",
+    "main.js": "/ElayaramanR-Projects/bloc-clone/static/js/main.c42919ef.js",
+    "static/js/453.e6d44433.chunk.js": "/ElayaramanR-Projects/bloc-clone/static/js/453.e6d44433.chunk.js",
+    "static/media/logo.svg": "/ElayaramanR-Projects/bloc-clone/static/media/logo.0d26ca8539db0a0d18cc16b64ed2b582.svg",
+    "static/media/diamond_gradient.png": "/ElayaramanR-Projects/bloc-clone/static/media/diamond_gradient.1ba5c2aaa6d4894dd079.png",
+    "static/media/chip_2.svg": "/ElayaramanR-Projects/bloc-clone/static/media/chip_2.f16becb26d7da82910f8d564d1a2aa7d.svg",
+    "static/media/chip.svg": "/ElayaramanR-Projects/bloc-clone/static/media/chip.3a0da102812eb1abbf2e4a5b607f6d43.svg",
+    "static/media/meter.svg": "/ElayaramanR-Projects/bloc-clone/static/media/meter.06a1521776fc8813bf6bb0e1b1d8bfb8.svg",
+    "static/media/flask.svg": "/ElayaramanR-Projects/bloc-clone/static/media/flask.425db1cccf6d9bca74861bd864e6742d.svg",
+    "static/media/tools.svg": "/ElayaramanR-Projects/bloc-clone/static/media/tools.44f83970d1934c38e18aef6884b80bca.svg",
+    "static/media/key.svg": "/ElayaramanR-Projects/bloc-clone/static/media/key.7fe5b0e058ee743705dfe227fe4d20bc.svg",
+    "static/media/graph.svg": "/ElayaramanR-Projects/bloc-clone/static/media/graph.cdf9c43889de080fa1d8569e7cf823b3.svg",
+    "index.html": "/ElayaramanR-Projects/bloc-clone/index.html",
+    "main.5c00253c.css.map": "/ElayaramanR-Projects/bloc-clone/static/css/main.5c00253c.css.map",
+    "main.c42919ef.js.map": "/ElayaramanR-Projects/bloc-clone/static/js/main.c42919ef.js.map",
+    "453.e6d44433.chunk.js.map": "/ElayaramanR-Projects/bloc-clone/static/js/453.e6d44433.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c00253c.css",
+    "static/js/main.c42919ef.js"
+  ]
+}

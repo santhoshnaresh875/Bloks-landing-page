@@ -1,0 +1,38 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+body{
+    background: #000;
+}
+.d-g{
+    background-image: url('../src/app/assets/diamond_gradient.png');
+}
+.btn-angi{
+    background-color: rgb(235, 147, 16);
+    padding: 10px;
+    border-radius: 13px;
+}
+.latter{
+    font-size: 20px;
+
+}
+.latter1{
+    font-size: 15px;
+}
+.custom-button {
+    background-color: blue;
+    color: white;
+    border: 1px solid green;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    transition: transform 0.3s ease-in-out;
+}
+
+.custom-button:hover {
+    transform: translateY(-0.25rem) scale(1.05);
+    color: red;
+}
+
